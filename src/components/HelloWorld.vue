@@ -19,13 +19,30 @@
             <p>Subscribe</p>
           </div>
         </div>
-        <p class="text-gray-700">Wanna922@gmail.com - Maringá, paraná (2:13 AM)</p>
+        
+        
       </div>
   </div>
 
   <div class="px-6">
-    
-  </div>
+      <p class="text-gray-700 py-0.5 mb-1.5">Wanna922@gmail.com - Maringá, paraná (2:13 AM)</p>
+            <div class="flex items-center py-1 justify-center">
+              <div class="border-r pr-3">
+                <h5 class="text-gray-500">First seen</h5>
+                <p>1 Out, 2020</p>
+              </div>
+              <div class="border-r pl-1.5 pr-3">
+                <h5 class="text-gray-500">Revenue</h5>
+                <p>$5,009.88</p>
+              </div>
+              <div class="pl-3">
+                <h5 class="text-gray-500">MRR</h5>
+                <p>$12.88</p>
+              </div>
+            </div>
+            
+        </div>
+
 </template>
 
 
