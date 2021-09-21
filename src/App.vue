@@ -5,15 +5,21 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  
-  
-  <HelloWorld />
+  <body>
+    <HelloWorld />
+  </body>
 </template>
 
 <style>
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+  padding-top: 0.5rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
